@@ -16,4 +16,5 @@ GPIO_Init_Bla.Bla.Bla.Bla;
 GPIO_Init (GPIOD, &GPIO_Init_LED);
 
 Changes on Vetka_1
+Changes on Vetka_1
 }
