@@ -18,4 +18,7 @@ GPIO_Init (GPIOD, &GPIO_Init_LED);
 Changes #1
 Changes #2
 Changes #3
+Changes on Vetka_1
+Changes on Vetka_1
+Changes on Vetka_1
 }
